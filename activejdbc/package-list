@@ -1,0 +1,13 @@
+org.javalite.activejdbc
+org.javalite.activejdbc.annotations
+org.javalite.activejdbc.associations
+org.javalite.activejdbc.cache
+org.javalite.activejdbc.dialects
+org.javalite.activejdbc.statistics
+org.javalite.activejdbc.validation
+org.javalite.activejdbc.web
+org.javalite.common
+org.javalite.http
+org.javalite.instrumentation
+org.javalite.test
+org.javalite.test.jspec
