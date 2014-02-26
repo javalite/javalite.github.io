@@ -1,4 +1,4 @@
-javalite.github.io
+JavaDoc for JavaLite
 ==================
 
 This is a set of JavaDoc pages for JavaLite frameworks:
