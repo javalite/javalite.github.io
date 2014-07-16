@@ -11,5 +11,6 @@ org.javalite.db_migrator
 org.javalite.db_migrator.maven
 org.javalite.http
 org.javalite.instrumentation
+org.javalite.maven
 org.javalite.test
 org.javalite.test.jspec
