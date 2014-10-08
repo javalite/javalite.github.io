@@ -2,4 +2,6 @@ app.controllers
 org.javalite.activeweb
 org.javalite.activeweb.annotations
 org.javalite.activeweb.controller_filters
+org.javalite.activeweb.controllers
 org.javalite.activeweb.freemarker
+org.javalite.lessc.maven
