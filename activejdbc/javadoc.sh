@@ -1,1 +1,1 @@
-/home/igor/programs/jdk1.8.0/jre/../bin/javadoc @options @packages
+/home/igor/programs/jdk1.8.0_20/jre/../bin/javadoc @options @packages
