@@ -5,6 +5,7 @@ org.javalite.http
 org.javalite.instrumentation
 org.javalite.activejdbc
 org.javalite.activejdbc.web
+org.javalite.activejdbc.conversion
 org.javalite.activejdbc.dialects
 org.javalite.activejdbc.associations
 org.javalite.activejdbc.cache
