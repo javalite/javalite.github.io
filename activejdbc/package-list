@@ -7,6 +7,7 @@ org.javalite.activejdbc.dialects
 org.javalite.activejdbc.statistics
 org.javalite.activejdbc.validation
 org.javalite.activejdbc.web
+org.javalite.app_config
 org.javalite.common
 org.javalite.db_migrator
 org.javalite.db_migrator.maven
