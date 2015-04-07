@@ -1,7 +1,12 @@
+org.javalite.templator
+org.javalite.templator.tags
 org.javalite.activeweb
+org.javalite.activeweb.templator
 org.javalite.activeweb.controller_filters
 org.javalite.activeweb.annotations
+org.javalite.activeweb.async
 org.javalite.activeweb.freemarker
 org.javalite.activeweb.controllers
 app.controllers
 org.javalite.lessc.maven
+org.javalite.hornet_nest
