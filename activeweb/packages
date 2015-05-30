@@ -1,4 +1,5 @@
 org.javalite.templator
+org.javalite.templator.template_parser
 org.javalite.templator.tags
 org.javalite.activeweb
 org.javalite.activeweb.templator

@@ -10,3 +10,4 @@ org.javalite.hornet_nest
 org.javalite.lessc.maven
 org.javalite.templator
 org.javalite.templator.tags
+org.javalite.templator.template_parser
