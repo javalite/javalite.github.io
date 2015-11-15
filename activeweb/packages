@@ -1,8 +1,4 @@
-org.javalite.templator
-org.javalite.templator.template_parser
-org.javalite.templator.tags
 org.javalite.activeweb
-org.javalite.activeweb.templator
 org.javalite.activeweb.controller_filters
 org.javalite.activeweb.annotations
 org.javalite.activeweb.async
