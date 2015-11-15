@@ -1,3 +1,4 @@
+dummy
 org.javalite.activejdbc
 org.javalite.activejdbc.annotations
 org.javalite.activejdbc.associations
@@ -6,6 +7,7 @@ org.javalite.activejdbc.conversion
 org.javalite.activejdbc.dialects
 org.javalite.activejdbc.statistics
 org.javalite.activejdbc.validation
+org.javalite.activejdbc.validation.length
 org.javalite.activejdbc.web
 org.javalite.app_config
 org.javalite.common
