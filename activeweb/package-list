@@ -5,5 +5,5 @@ org.javalite.activeweb.async
 org.javalite.activeweb.controller_filters
 org.javalite.activeweb.controllers
 org.javalite.activeweb.freemarker
-org.javalite.hornet_nest
+org.javalite.async
 org.javalite.lessc.maven
