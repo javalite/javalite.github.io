@@ -6,6 +6,7 @@ org.javalite.activejdbc.cache
 org.javalite.activejdbc.connection_config
 org.javalite.activejdbc.conversion
 org.javalite.activejdbc.dialects
+org.javalite.activejdbc.logging
 org.javalite.activejdbc.statistics
 org.javalite.activejdbc.test
 org.javalite.activejdbc.validation
