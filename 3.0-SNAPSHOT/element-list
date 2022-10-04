@@ -1,5 +1,4 @@
 app.controllers
-dummy
 org.javalite
 org.javalite.activejdbc
 org.javalite.activejdbc.annotations
@@ -8,7 +7,6 @@ org.javalite.activejdbc.cache
 org.javalite.activejdbc.connection_config
 org.javalite.activejdbc.dialects
 org.javalite.activejdbc.logging
-org.javalite.activejdbc.models
 org.javalite.activejdbc.statistics
 org.javalite.activejdbc.test
 org.javalite.activejdbc.web
@@ -18,17 +16,22 @@ org.javalite.activeweb.async
 org.javalite.activeweb.controller_filters
 org.javalite.activeweb.controllers
 org.javalite.activeweb.freemarker
+org.javalite.activeweb.mojo
+org.javalite.activeweb.websockets
 org.javalite.app_config
 org.javalite.async
-org.javalite.async.pooltest
+org.javalite.async.xstream
+org.javalite.cassandra.jdbc
 org.javalite.common
 org.javalite.conversion
 org.javalite.db_migrator
 org.javalite.db_migrator.maven
 org.javalite.http
 org.javalite.instrumentation
+org.javalite.json
 org.javalite.lessc.maven
 org.javalite.logging
+org.javalite.sass.maven
 org.javalite.test
 org.javalite.test.jspec
 org.javalite.validation
